@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 BetterYimi&#039;s blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Note test</title>
+    <link>https://betteryimi.github.io/blog/Test</link>
+    <guid>https://betteryimi.github.io/blog/Test</guid>
+    <description>局域网远程桌面一个方案 github.com/LizardByte/Sunshine/ IPV6内网穿透方案 个人域名betteryimi.top 此外手机热点给电脑 有ipv6公网 (做热点的话好像临时ipv6地址才行) 开启防火墙可访问 ddns 使用ddns-go这个开源项目 申请一下阿里云的密钥即可 Blog blog方案 ...</description>
+    <pubDate>Fri, 16 Aug 2024 05:57:33 GMT</pubDate>
+  </item><item>
     <title>sqlite1</title>
     <link>https://betteryimi.github.io/blog/sqlite1</link>
     <guid>https://betteryimi.github.io/blog/sqlite1</guid>
