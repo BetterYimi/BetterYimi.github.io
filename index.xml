@@ -6,10 +6,10 @@
       <description>Last 10 notes on 🪴 BetterYimi&#039;s blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Git</title>
+    <title>git基本使用</title>
     <link>https://betteryimi.github.io/article/Git</link>
     <guid>https://betteryimi.github.io/article/Git</guid>
-    <description>git技巧 基础使用 增大post缓冲区 防止大文件git clone失败。 git只克隆仓库某个目录 # 创建一个与要clone的仓库同名或不同命的目录 $ mkdir models $ cd models $ git init #初始化 $ git remote add origin github.com/tensorflow/models.git ...</description>
+    <description>基础使用 增大post缓冲区 防止大文件git clone失败。 git只克隆仓库某个目录 # 创建一个与要clone的仓库同名或不同命的目录 $ mkdir models $ cd models $ git init #初始化 $ git remote add origin github.com/tensorflow/models.git # ...</description>
     <pubDate>Mon, 19 Aug 2024 08:23:04 GMT</pubDate>
   </item><item>
     <title>个人blog workflow</title>
@@ -42,7 +42,7 @@
     <description>局域网远程桌面一个方案 github.com/LizardByte/Sunshine/ IPV6内网穿透方案 个人域名betteryimi.top 此外手机热点给电脑 有ipv6公网 (做热点的话好像临时ipv6地址才行) 开启防火墙可访问 ddns 使用ddns-go这个开源项目 申请一下阿里云的密钥即可 Blog blog方案 ...</description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item><item>
-    <title>sqlite1</title>
+    <title>sqlite简单教程</title>
     <link>https://betteryimi.github.io/blog/sqlite1</link>
     <guid>https://betteryimi.github.io/blog/sqlite1</guid>
     <description>SQLite3 C++接口提供了丰富的功能来与SQLite数据库进行交互。以下是一些基本的SQLite3 C++接口使用方法： 打开数据库连接： #include &lt;sqlite3.h&gt; sqlite3 *db; int rc = sqlite3_open(&quot;my_database.db&quot;, ...</description>
