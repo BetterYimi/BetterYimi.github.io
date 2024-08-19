@@ -12,10 +12,10 @@
     <description>Title 1 The rest of your content lives here. You can use Markdown here :) a = \frac{f}{mg} #include &lt;iostream&gt; #include &lt;vector&gt; class Test { public: Test(); ~Test(); }; int main(int argc, char const *argv[]) { Test test; return 0; } Cite 这是测试为啥这个加载这么慢哇，好奇怪 图片测试 Title2 这里这个好像会自动更新？.</description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item><item>
-    <title>Welcome to Quartz</title>
+    <title>Welcome to BetterYimi&#039; blog</title>
     <link>https://betteryimi.github.io/</link>
     <guid>https://betteryimi.github.io/</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <description>recent update.</description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item><item>
     <title>Note test</title>
@@ -30,22 +30,16 @@
     <description>SQLite3 C++接口提供了丰富的功能来与SQLite数据库进行交互。以下是一些基本的SQLite3 C++接口使用方法： 打开数据库连接： #include &lt;sqlite3.h&gt; sqlite3 *db; int rc = sqlite3_open(&quot;my_database.db&quot;, ...</description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item><item>
-    <title>MarkDown</title>
+    <title>markdown教程</title>
     <link>https://betteryimi.github.io/blog/MarkDown</link>
     <guid>https://betteryimi.github.io/blog/MarkDown</guid>
-    <description>fffpotaotic--- created: 2021-08-09 10:18 modified: 2022-01-12 周三 21:40 aliases: [Markdown教程,MD教程] tags: [“#MarkdownObsidian”] 什么是 Markdown? Markdown 是一款轻量级标记语言，不同于HTML ...</description>
+    <description>什么是 Markdown? Markdown 是一款轻量级标记语言，不同于HTML (Hypertext Markup Language)，Markdown 的语法非常简单，且容易上手 Markdown 以 纯文本格式 编写文档，依赖键盘而非鼠标，专注于写作本身，感受书写的魅力 Markdown 的通过添加一些简单的 标识符，让文本具有恰到好处的格式 ...</description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item><item>
     <title>blog1</title>
     <link>https://betteryimi.github.io/blog/blog1</link>
     <guid>https://betteryimi.github.io/blog/blog1</guid>
     <description>image test Bug test .</description>
-    <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
-  </item><item>
-    <title>imagetest</title>
-    <link>https://betteryimi.github.io/article/imagetest</link>
-    <guid>https://betteryimi.github.io/article/imagetest</guid>
-    <description></description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item>
     </channel>
