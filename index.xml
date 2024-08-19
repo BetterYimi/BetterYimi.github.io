@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 BetterYimi&#039;s blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>nginx简单搭建静态网站</title>
+    <link>https://betteryimi.github.io/article/nginx</link>
+    <guid>https://betteryimi.github.io/article/nginx</guid>
+    <description>反向代理，免除端口输入 🤔需求描述： 已有域名blog.betteryimi.top 有公网ip的服务器 在服务器的6015端口跑了一个静态web服务 使用blog.betteryimi.top不带端口去访问6015的web服务 ✨步骤： 安装Nginx（如果还没有安装）： sudo apt update sudo apt ...</description>
+    <pubDate>Mon, 19 Aug 2024 02:05:05 GMT</pubDate>
+  </item><item>
     <title>Note test</title>
     <link>https://betteryimi.github.io/note</link>
     <guid>https://betteryimi.github.io/note</guid>
