@@ -110,6 +110,17 @@ ignorePatterns: [&quot;private&quot;, &quot;templates&quot;, &quot;.obsidian&quo
 <span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">git</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> push</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF;"> -u</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> origin</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> blog</span></span>
 <span data-line><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># 后续推送直接(记得先add和commit)</span></span>
 <span data-line><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">git</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> push</span></span></code></pre></figure>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>Note </p></div>
+                  
+                </div>
+<div class="callout-content">
+<p>为了免除每次git push都需要手动验证，可以采用ssh形式或者配置好github的密钥，修改系统的验证方式为store(首次需要手动登录).
+<code>git config --system credential.helper store</code></p>
+</div>
+</blockquote>
 <p>✨个人服务器搭建的话可以pull仓库下来然后使用nginx创建web服务，见<a href="../article/nginx" class="internal" data-slug="article/nginx">nginx</a></p>
 <p>可以编写脚本一键完成build和push:</p>
 <figure data-rehype-pretty-code-figure><pre tabindex="0" data-language="powershell" data-theme="github-light github-dark"><code data-language="powershell" data-theme="github-light github-dark" style="display:grid;"><span data-line><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;"># 获取当前时间</span></span>
