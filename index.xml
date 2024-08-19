@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 BetterYimi&#039;s blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>个人blog workflow</title>
+    <link>https://betteryimi.github.io/article/%E4%B8%AA%E4%BA%BAblog-workflow</link>
+    <guid>https://betteryimi.github.io/article/%E4%B8%AA%E4%BA%BAblog-workflow</guid>
+    <description>主要是静态web搭建，需求是将markdown转为静态web，并且自动兼容各种assets资源。 当前采用的方案是 obsidian + quartz + git + github pages方案，部署的话除了使用github pages还有个人服务器+nginx方案，流程如下。 1 obsidian端 obsidian主要约定如下配置： ...</description>
+    <pubDate>Mon, 19 Aug 2024 06:36:11 GMT</pubDate>
+  </item><item>
     <title>nginx简单搭建静态网站</title>
     <link>https://betteryimi.github.io/article/nginx</link>
     <guid>https://betteryimi.github.io/article/nginx</guid>
