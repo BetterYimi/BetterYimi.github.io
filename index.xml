@@ -6,6 +6,18 @@
       <description>Last 10 notes on 🪴 BetterYimi&#039;s blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>About me</title>
+    <link>https://betteryimi.github.io/AboutMe</link>
+    <guid>https://betteryimi.github.io/AboutMe</guid>
+    <description>这里是一些关于我的信息. TODO .</description>
+    <pubDate>Tue, 20 Aug 2024 02:33:18 GMT</pubDate>
+  </item><item>
+    <title>❓FAQ</title>
+    <link>https://betteryimi.github.io/FAQ</link>
+    <guid>https://betteryimi.github.io/FAQ</guid>
+    <description>❓这里是FAQ TODO .</description>
+    <pubDate>Tue, 20 Aug 2024 02:32:07 GMT</pubDate>
+  </item><item>
     <title>git基本使用</title>
     <link>https://betteryimi.github.io/article/Git</link>
     <guid>https://betteryimi.github.io/article/Git</guid>
@@ -24,16 +36,10 @@
     <description>反向代理，免除端口输入 🤔需求描述： 已有域名blog.betteryimi.top 有公网ip的服务器 在服务器的6015端口跑了一个静态web服务 使用blog.betteryimi.top不带端口去访问6015的web服务 ✨步骤： 安装Nginx（如果还没有安装）： sudo apt update sudo apt ...</description>
     <pubDate>Mon, 19 Aug 2024 02:05:05 GMT</pubDate>
   </item><item>
-    <title>Note test</title>
-    <link>https://betteryimi.github.io/note</link>
-    <guid>https://betteryimi.github.io/note</guid>
-    <description>Title 1 The rest of your content lives here. You can use Markdown here :) a = \frac{f}{mg} #include &lt;iostream&gt; #include &lt;vector&gt; class Test { public: Test(); ~Test(); }; int main(int argc, char const *argv[]) { Test test; return 0; } Cite 这是测试为啥这个加载这么慢哇，好奇怪 图片测试 Title2 这里这个好像会自动更新？.</description>
-    <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
-  </item><item>
     <title>Welcome to BetterYimi&#039; blog</title>
     <link>https://betteryimi.github.io/</link>
     <guid>https://betteryimi.github.io/</guid>
-    <description> ✨ Gatekeepers All the characters in the game. ❓ FAQ Frequently asked questions about the Gatekeepers game. 🤖 Artifacts A database of all the items in the game and how to unlock them.</description>
+    <description> 📖 Article Some essays aobut cs and robotics. ❓ FAQ Frequently asked questions. 🤖 Blog Some technical blogs aobut cs and robotics. 👑 Achievements No content for the time being.</description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item><item>
     <title>Note test</title>
@@ -52,12 +58,6 @@
     <link>https://betteryimi.github.io/blog/MarkDown</link>
     <guid>https://betteryimi.github.io/blog/MarkDown</guid>
     <description>什么是 Markdown? Markdown 是一款轻量级标记语言，不同于HTML (Hypertext Markup Language)，Markdown 的语法非常简单，且容易上手 Markdown 以 纯文本格式 编写文档，依赖键盘而非鼠标，专注于写作本身，感受书写的魅力 Markdown 的通过添加一些简单的 标识符，让文本具有恰到好处的格式 ...</description>
-    <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
-  </item><item>
-    <title>blog1</title>
-    <link>https://betteryimi.github.io/blog/blog1</link>
-    <guid>https://betteryimi.github.io/blog/blog1</guid>
-    <description>image test Bug test .</description>
     <pubDate>Fri, 16 Aug 2024 08:48:04 GMT</pubDate>
   </item>
     </channel>
